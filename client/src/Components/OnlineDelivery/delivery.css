@@ -1,0 +1,76 @@
+.delivery-head {
+    background-image: url("../../../public/DeliveryPage/bg.jpg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 200px;
+}
+.delivery-head-above {
+    background: rgba(0,0,0,0.6);
+}
+.delivery-head-above h1 {
+    font-family: "Alex Brush"; 
+    color: #dcb075;
+}
+
+.delivery-menu-item {
+    width: 480px;
+    box-shadow: rgb(223, 222, 222) 1px 3px 9px ;
+    height: 170px;
+}
+.delivery-menu-item:hover {
+    box-shadow: rgb(186, 186, 186) 1px 3px 9px ;
+    cursor: pointer;
+}
+.delivery-menu-item h1 {
+    font-size: larger;
+}
+
+
+.delivery-menu-categories a:hover{
+    cursor: pointer;
+    text-decoration: none;
+}
+.delivery-menu-categories li {
+    font-size: large;
+    border-bottom: 2px solid transparent;
+}
+.delivery-menu-categories li:hover, .delivery-menu-categories li.active {
+    color: rgb(99, 148, 211);
+    border-bottom: 2px solid rgb(99, 148, 211);
+    width: fit-content;
+    transition: border-bottom 0.5s ease-in-out;
+}
+
+
+
+.delivery-item-overlay {
+    background: rgba(0,0,0,0.6);
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+.delivery-each-item {
+    width: 500px;
+}
+.delivery-each-item h3 {
+    font-size: large;
+}
+.close-button:hover {
+    cursor: pointer;
+}
+.delivery-order-minus {
+    background-color: rgb(228, 228, 228);
+    border-radius: 100%;
+}
+.delivery-order-plus {
+    background-color: rgb(228, 228, 228);
+    border-radius: 100%;
+}
+.delivery-quantity-input {
+    height: 32px;
+    width: 55px;
+    font-size: 18px;
+}

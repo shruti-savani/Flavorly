@@ -1,0 +1,46 @@
+.delivery-summary-main-bg {
+    min-height: 597px;
+}
+.delivery-summary-items {
+    box-shadow: 1px 2px 9px rgb(207, 207, 207);
+    width: 380px;
+    max-height: 192px;
+}
+.delivery-summary-items h1 {
+    font-size: large;
+}
+
+.total-payable {
+    border-bottom: 2px solid rgb(169, 203, 230);
+}
+.delivery-bill-bg {
+    min-height: 176px;
+    max-height: auto;
+}
+
+.delivery-add-instructions span {
+    cursor: pointer;
+}
+.delete-icon {
+    cursor: pointer;
+}
+
+
+.overlay {
+    background: rgba(0,0,0,0.6);
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+.checkout-form {
+    height: auto;
+    width: 600px;
+}
+
+.payment-form {
+    min-height: 200px;
+    max-height: auto;
+    width: 600px;
+}

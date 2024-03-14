@@ -1,0 +1,511 @@
+[{
+    "image": "/MenuPage/starterItems/s1.jpg",
+    "name": "Tomato Soup",
+    "description": "A perfect comforting soup for wintery days when served with some croutons, garlic bread, grilled cheese or chilli cheese toast. ",
+    "price": 129,
+    "category": "starter"
+  },
+  {
+    "image": "/MenuPage/starterItems/s2.jpg",
+    "name": "Spinach Soup",
+    "description": "This spinach soup is healthy, absolutely delicious and has been a family favorite for years. The texture is smooth and the addition of ghee sauteed garlic on top makes it so rich and flavorful. ",
+    "price": 129,
+    "category": "starter"
+  },
+  {
+    "image": "/MenuPage/starterItems/s3.jpg",
+    "name": "Sweet Corn Soup",
+    "description": "This sweet corn soup is perfect starter dish for your indo-chinese meal.",
+    "price": 129,
+    "category": "starter"
+  },
+  {
+    "image": "/MenuPage/starterItems/s4.jpg",
+    "name": "Vegetable Soup",
+    "description": "This vegetable soup is perfect for wintery, cold days.",
+    "price": 129,
+    "category": "starter"
+  },
+  {
+    "image": "/MenuPage/starterItems/s5.jpg",
+    "name": "Zuchhini Chips",
+    "description": "These healthy, vegan air fryer zucchini chips are so crispy and tasty. If you’re looking for a healthy snack then these non-greasy chips are perfect and give you a serving of veggies too. ",
+    "price": 179,
+    "category": "starter"
+  },
+  {
+    "image": "/MenuPage/starterItems/s6.jpg",
+    "name": "Paneer Tikka",
+    "description": "Paneer cubes, onions and peppers are marinated in a creamy yogurt marinade that’s rich in spices and grilled into the oven to lend that perfect crave-able smokey flavor.",
+    "price": 199,
+    "category": "starter"
+  },
+  {
+    "image": "/MenuPage/starterItems/s7.jpg",
+    "name": "Hara Bhara Kabab",
+    "description": "Veg Hara Bhara Kabab is a flavorful and vibrant Indian vegetarian kebab made with a mix of spinach, peas, potatoes, and spices, offering a delightful green hue.",
+    "price": 189,
+    "category": "starter"
+  },
+  {
+    "image": "/MenuPage/starterItems/s8.jpg",
+    "name": "Paneer Chilli",
+    "description": "This Hyderabadi paneer chilli starter is deliciously bright, flavorful, spicy and super tasty.",
+    "price": 189,
+    "category": "starter"
+  },
+  {
+    "image": "/MenuPage/starterItems/s9.jpg",
+    "name": "Veg. Spring Rolls",
+    "description": "This Veg Spring Rolls are crisp, golden-brown rolls filled with a delightful medley of stir-fried vegetables, offering a perfect balance of crunch and flavor in every bite.",
+    "price": 149,
+    "category": "starter"
+  },
+  {
+    "image": "/MenuPage/starterItems/s10.jpg",
+    "name": "Masala Papad",
+    "description": "This masala papad is crispy papad topped with spiced onion-tomato mixture along with coriander.",
+    "price": 99,
+    "category": "starter"
+  },
+  {
+    "image": "/MenuPage/starterItems/s11.jpg",
+    "name": "French Fries",
+    "description": "This French fries are golden and crispy potato strips, seasoned to perfection, and enjoyed as a classic and irresistible side dish or snack.",
+    "price": 79,
+    "category": "starter"
+  },
+  {
+    "image": "/MenuPage/starterItems/s12.jpg",
+    "name": "Burger",
+    "description": "This burger is mouthwatering delight, featuring a fried patty, nestled between soft buns, and adorned with a variety of flavorful toppings.",
+    "price": 89,
+    "category": "starter"
+  },
+  {
+    "image": "/MenuPage/starterItems/s13.jpg",
+    "name": "Veg. Pizza",
+    "description": "This Veg Pizza is a delectable creation topped with a colorful assortment of fresh vegetables, cheese, and tomato sauce on a crispy crust, offering a burst of flavors in every slice.",
+    "price": 199,
+    "category": "starter"
+  },
+  {
+    "image": "/MenuPage/starterItems/s14.jpg",
+    "name": "Margherita Pizza",
+    "description": "Margherita Pizza is a classic Italian masterpiece, with a thin crust, tomato sauce, fresh mozzarella, and a drizzle of olive oil, delivering an authentic taste experience.",
+    "price": 159,
+    "category": "starter"
+  },
+  {
+    "image": "/MenuPage/starterItems/s15.jpg",
+    "name": "Mac and Cheese",
+    "description": "This mac and cheese is healthy and made with protein-packed cottage cheese and is both creamy and satisfying.",
+    "price": 239,
+    "category": "starter"
+  },
+  {
+    "image": "/MenuPage/starterItems/s16.jpg",
+    "name": "Penne Pomodoro",
+    "description": "This penne pasta is practically guaranteed to become your family favorite. This pomodoro sauce is a staple in Italian cooking and is known for its robust tomato taste.",
+    "price": 239,
+    "category": "starter"
+  },
+  {
+    "image": "/MenuPage/mainCourseItems/m1.jpg",
+    "name": "Paneer Bhurji", 
+    "description": "Grated paneer or scrambled paneer sauteed with onion, tomato, bell pepper, and a few spices.",
+    "price": 169,
+    "category": "maincourse"
+  },
+  {
+      "image": "/MenuPage/mainCourseItems/m2.jpg",
+      "name": "Matar Paneer", 
+      "description": "Matar Paneer is incredibly flavorful thanks to the vibrant, spicy onion-tomato gravy. And who can resist that soft, succulent paneer cubes with perfectly cooked, soft green peas.",
+      "price": 159,
+      "category": "maincourse"
+  },
+  {
+      "image": "/MenuPage/mainCourseItems/m3.jpg",
+      "name": "Whole Masoor Dal", 
+      "description": "This masoor dal is a must-try Indian lentil curry. It is a healthy, flavorful, protein-packed vegetarian dinner (+vegan).",
+      "price": 149,
+      "category": "maincourse"
+  },
+  {
+      "image": "/MenuPage/mainCourseItems/m4.jpg",
+      "name": "Spinach Rice", 
+      "description": "This Spinach rice is a flavorful dish where aromatic basmati rice is infused with the vibrant essence of spinach, creating a nutritious and delicious green-hued rice delicacy.",
+      "price": 149,
+      "category": "maincourse"
+  },
+  {
+      "image": "/MenuPage/mainCourseItems/m5.jpg",
+      "name": "Corn Pulao", 
+      "description": "This sweet corn pulao has a mild yet delicious flavors. Here some green peas along with sweet corn kernels are added for some pop of color.",
+      "price": 139,
+      "category": "maincourse"
+  },
+  {
+      "image": "/MenuPage/mainCourseItems/m6.jpg",
+      "name": "Palak Paneer", 
+      "description": "This palak paneer is a dish containing Indian cottage cheese over a vibrant green spiced spinach sauce and finished with a splash of cashew cream.",
+      "price": 259,
+      "category": "maincourse"
+  },
+  {
+      "image": "/MenuPage/mainCourseItems/m7.jpg",
+      "name": "Rogan Josh", 
+      "description": "This rogan josh contains succulent pieces of Goat or Lamb braised in gravy flavored with aromatic spices like fennel, cloves, cardamom, cinnamon & ginger.",
+      "price": 249,
+      "category": "maincourse"
+  },
+  {
+      "image": "/MenuPage/mainCourseItems/m8.jpg",
+      "name": "Grilled Chicken", 
+      "description": "This dish is juicy grilled chicken breasts, topped with a delicious ruby-red cherry salsa, made from the season’s best local cherries. ",
+      "price": 199,
+      "category": "maincourse"
+  },
+  {
+      "image": "/MenuPage/mainCourseItems/m9.jpg",
+      "name": "Chicken Masala", 
+      "description": "This is a basic Indian aromatic curry paste with chicken dish that pairs perfectly with Naan or rice.",
+      "price": 189,
+      "category": "maincourse"
+  },
+  {
+      "image": "/MenuPage/mainCourseItems/m10.jpg",
+      "name": "Falafel Pita", 
+      "description": "This dish is Falafel in a soft pita lined with hummus, over some tangy Turkish Salad and drizzled with lemony Tahini Sauce",
+      "price": 169,
+      "category": "maincourse"
+  },
+  {
+      "image": "/MenuPage/mainCourseItems/m11.jpg",
+      "name": "Chicken Fiesta Rice", 
+      "description": "This chicken fiesta rice is a vibrant and flavorful dish featuring tender chicken, colorful bell peppers, and aromatic rice.",
+      "price": 149,
+      "category": "maincourse"
+  },
+  {
+      "image": "/MenuPage/mainCourseItems/m12.jpg",
+      "name": "Beef Goulash", 
+      "description": "This beef goulash is essentially a hearty beef stew, seasoned with paprika and other spices.",
+      "price": 199,
+      "category": "maincourse"
+  },
+  {
+      "image": "/MenuPage/mainCourseItems/m13.jpg",
+      "name": "Mexican Rice", 
+      "description": "This Mexican rice is an aromatic dish infused with tomatoes, onions, and spices, offering a flavorful culinary experience.",
+      "price": 159,
+      "category": "maincourse"
+  },
+  {
+      "image": "/MenuPage/mainCourseItems/m14.jpg",
+      "name": "Tuna Lasagna Rolls", 
+      "description": "This dish has all the comforting flavors of a cheesy tuna noodle casserole, but with the sophisticated appearance of a lasagna roll.",
+      "price": 219,
+      "category": "maincourse"
+  },
+  {
+      "image": "/MenuPage/mainCourseItems/m15.jpg",
+      "name": "Coconut Shrimp Curry", 
+      "description": "This dish is simply flavored with garlic, ginger and chili peppers alongside with shrimp and rice.",
+      "price": 199,
+      "category": "maincourse"
+  },
+  {
+      "image": "/MenuPage/mainCourseItems/m16.jpg",
+      "name": "Butter Naan", 
+      "description": "Butter Naan is a soft and pillowy Indian bread, brushed with butter, creating a delightful accompaniment to savor with your favorite curries.",
+      "price": 59,
+      "category": "maincourse"
+  },
+  {
+      "image": "/MenuPage/mainCourseItems/m17.jpg",
+      "name": "Butter Kulcha", 
+      "description": "Butter Kulcha is a delectable Indian bread, soft and fluffy, offering a rich complement to elevate your dining experience.",
+      "price": 59,
+      "category": "maincourse"
+  },
+  {
+      "image": "/MenuPage/mainCourseItems/m18.jpg",
+      "name": "Paratha", 
+      "description": "Paratha is a versatile Indian flatbread, cooked to golden perfection, a delightful accompaniment to a range of savory and sweet dishes.",
+      "price": 49,
+      "category": "maincourse"
+  },
+  {
+    "image": "/MenuPage/drinkItems/d1.jpg",
+    "name": "Coconut Mojito",
+    "description":
+    " It is the perfect drink to kick of the summer with its refreshing mint, tangy lime and creamy sweet coco-nutty goodness.",
+    "price": "129",
+    "category": "drinks"
+},
+{
+    "image": "/MenuPage/drinkItems/d2.jpg",
+    "name": "Cranberry Cocktail",
+    "description":
+    "This sweet and fruity cranberry cocktail is perfect for any special occasion. Taste it and it will be Love at first sip!",
+    "price": "129",
+    "category": "drinks"
+},
+{
+    "image": "/MenuPage/drinkItems/d3.jpg",
+    "name": "White Wine sangria",
+    "description":
+    "This drink is prepared using a slightly sweet White Wine, Canada Dry Ginger Ale and Sparkling Apple Cider.",
+    "price": "129",
+    "category": "drinks"
+},
+{
+    "image": "/MenuPage/drinkItems/d4.jpg",
+    "name": "Strawberry Cream Frappe",
+    "description":
+    "Sip on the sweetness of summer with our Strawberry Cream Frappe, a luscious blend of strawberries and creamy goodness.",
+    "price": "129",
+    "category": "drinks"
+},
+{
+    "image": "/MenuPage/drinkItems/d5.jpg",
+    "name": "Iced Coffee Frappe",
+    "description":
+    "Cool down your day with our Iced Coffee Frappe, a refreshing pick-me-up for coffee enthusiasts.",
+    "price": "129",
+    "category": "drinks"
+},
+{
+    "image": "/MenuPage/drinkItems/d6.jpg",
+    "name": "Peached Iced Tea",
+    "description":
+    "Experience the perfect balance of sweetness and zest with our Peached Iced Tea, a delightful peach-infused refreshment.",
+    "price": "129",
+    "category": "drinks"
+},
+{
+    "image": "/MenuPage/drinkItems/d7.jpg",
+    "name": "Watermelon Iced Tea",
+    "description":
+    "Quench your thirst with a burst of flavor in our Watermelon Iced Tea, a fruity and invigorating choice.",
+    "price": "129",
+    "category": "drinks"
+},
+{
+    "image": "/MenuPage/drinkItems/d8.jpg",
+    "name": "Mango Smoothie",
+    "description":
+    "Tropical paradise meets your glass in our Mango Smoothie, a velvety blend of ripe mangoes for a refreshing treat.",
+    "price": "129",
+    "category": "drinks"
+},
+{
+    "image": "/MenuPage/drinkItems/d9.jpg",
+    "name": "Banana Smoothie",
+    "description":
+    "Embrace the smooth and creamy essence of our Banana Smoothie, a delightful fusion of bananas and indulgence.",
+    "price": "129",
+    "category": "drinks"
+},
+{
+    "image": "/MenuPage/drinkItems/d10.jpg",
+    "name": "Dragon Fruit Iced Tea",
+    "description":
+    "Elevate your tea experience with a burst of exotic flavor in our Dragon Fruit Iced Tea, a vibrant and refreshing delight.",
+    "price": "129",
+    "category": "drinks"
+},
+{
+    "image": "/MenuPage/drinkItems/d11.jpg",
+    "name": "Mixed Berries Frappe",
+    "description":
+    "Savor the medley of berries in our Mixed Berries Frappe, a cool and fruity concoction for a delightful break.",
+    "price": "129",
+    "category": "drinks"
+},
+{
+    "image": "/MenuPage/drinkItems/d12.jpg",
+    "name": "Pineapple Smoothie",
+    "description":
+    "Transport yourself to the tropics with our Pineapple Smoothie, a tropical escape in every smooth sip.",
+    "price": "129",
+    "category": "drinks"
+},
+{
+    "image": "/MenuPage/drinkItems/d13.jpg",
+    "name": "Coca Cola",
+    "description":
+    "Classic and timeless, enjoy the crisp and effervescent taste of Coca Cola.",
+    "price": "129",
+    "category": "drinks"
+},
+{
+    "image": "/MenuPage/drinkItems/d14.jpg",
+    "name": "Sprite",
+    "description":
+    "Experience the light and refreshing citrus fizz of Sprite, a perfect companion for any occasion.",
+    "price": "129",
+    "category": "drinks"
+},
+{
+    "image": "/MenuPage/drinkItems/d15.jpg",
+    "name": "Mongo Juice",
+    "description":
+    "Quench your thirst with the pure essence of mango in our Mango Juice, a tropical delight in every sip.",
+    "price": "129",
+    "category": "drinks"
+},
+{
+    "image": "/MenuPage/drinkItems/d16.jpg",
+    "name": "Espresso",
+    "description":
+    "Awaken your senses with the bold kick of our Espresso, crafted for coffee aficionados seeking robust flavor.",
+    "price": "129",
+    "category": "drinks"
+},
+{
+    "image": "/MenuPage/drinkItems/d17.jpg",
+    "name": "Cappuccino",
+    "description":
+    "Indulge in the perfect balance of rich espresso and frothy milk with our classic Cappuccino.",
+    "price": "129",
+    "category": "drinks"
+},
+{
+    "image": "/MenuPage/drinkItems/d18.jpg",
+    "name": "Mocha",
+    "description":
+    "Satisfy your chocolate cravings with our Mocha, a velvety blend of espresso and decadent chocolate for the ultimate indulgence.",
+    "price": "129",
+    "category": "drinks"
+},
+{
+  "image": "/MenuPage/dessertItems/d1.jpg",
+  "name": "Strawberry French Cake",
+  "description":
+  "Crusty on the outside with a creamy crumb in the center, this cake is packed with fresh strawberries and is guaranteed to become your favorite!",
+  "price": "149",
+  "category": "dessert"
+},
+{
+  "image": "/MenuPage/dessertItems/d2.jpg",
+  "name": "Raspberry Heart",
+  "description":
+  "A gorgeous, decadent and delicious layered dessert, perfect for a loved one on date.",
+  "price": "179",
+  "category": "dessert"
+},
+{
+  "image": "/MenuPage/dessertItems/d3.jpg",
+  "name": "Santa Hat Brownie",
+  "description":
+  "Savor the festive joy with our Santa Hat Brownie, a delightful treat that brings a touch of holiday magic to every bite. (2 pcs)",
+  "price": "129",
+  "category": "dessert"
+},
+{
+  "image": "/MenuPage/dessertItems/d4.jpg",
+  "name": "Banana Bread",
+  "description":
+  "This is a super moist and delicious Banana Bread with Honey, Oats & Walnuts which easily melts in your mouth. ",
+  "price": "149",
+  "category": "dessert"
+},
+{
+  "image": "/MenuPage/dessertItems/d5.jpg",
+  "name": "Vanilla Cardamom",
+  "description":
+  "A creamy frozen treat similar to ice-cream paired with fresh citrus in a syrup flavored with a hint of ginger & a splash of rose water.",
+  "price": "159",
+  "category": "dessert"
+},
+{
+  "image": "/MenuPage/dessertItems/d6.jpg",
+  "name": "BlueBerry Muffins",
+  "description":
+  "Enjoy a burst of freshness in every bite with our delectable blueberry muffins, a perfect blend of moist goodness and juicy blueberries.",
+  "price": "119",
+  "category": "dessert"
+},
+{
+  "image": "/MenuPage/dessertItems/d7.jpg",
+  "name": "Strawberry Crunch Cake",
+  "description":
+  "It is infused with strawberry flavor, topped with fluffy cream cheese frosting and then finished off with a strawberry-and-cookie topping.",
+  "price": "229",
+  "category": "dessert"
+},
+{
+  "image": "/MenuPage/dessertItems/d8.jpg",
+  "name": "Creamsicles",
+  "description":
+  "Satisfy your sweet tooth with a nostalgic twist, our Creamsicles offer a refreshing combination of creamy vanilla and zesty orange.",
+  "price": "129",
+  "category": "dessert"
+},
+{
+  "image": "/MenuPage/dessertItems/d9.jpg",
+  "name": "Key Lime Pie Mousse",
+  "description":
+  "This key lime pie has all of the refreshing tartness and buttery crumble of the classic dessert, but in an adorable, individual container.",
+  "price": "249",
+  "category": "dessert"
+},
+{
+  "image": "/MenuPage/dessertItems/d10.jpeg",
+  "name": "Cookie Cream Icecream",
+  "description":
+  "This icecream is folded in Oreos, caramel sauce, and a touch of instant coffee for a caffeinated kick",
+  "price": "199",
+  "category": "dessert"
+},
+{
+  "image": "/MenuPage/dessertItems/d11.jpeg",
+  "name": "Blueberry cheesecake Bars",
+  "description":
+  "Indulge in the heavenly harmony of our Blueberry Cheesecake Bars, where velvety cheesecake meets the sweet burst of blueberries.",
+  "price": "189",
+  "category": "dessert"
+},
+{
+  "image": "/MenuPage/dessertItems/d12.jpg",
+  "name": "Espresso Cookies",
+  "description":
+  "These are flavorful and has a stronge coffee taste in its soft and fudgy cookies,",
+  "price": "199",
+  "category": "dessert"
+},
+{
+  "image": "/MenuPage/dessertItems/d13.jpeg",
+  "name": "Oatmeal Cookies",
+  "description":
+  "These no-bake chocolate peanut butter cookies are nostalgia at its finest.",
+  "price": "169",
+  "category": "dessert"
+},
+{
+  "image": "/MenuPage/dessertItems/d14.jpg",
+  "name": "Sponge Cake",
+  "description":
+  "This sponge cake is stacked with whipped cream and berries.",
+  "price": "229",
+  "category": "dessert"
+},
+{
+  "image": "/MenuPage/dessertItems/d15.jpg",
+  "name": "Coconut Cookies",
+  "description":
+  "This cocnot cookie is soft, chewy, slightly golden crispy edges with crispy toasted coconut strewn throughout.",
+  "price": "179",
+  "category": "dessert"
+},
+{
+  "image": "/MenuPage/dessertItems/d16.jpg",
+  "name": "Granita",
+  "description":
+  "Granita is perfect on its own as a light palate cleanser or dressed up with whipped cream and pineapple toppings",
+  "price": "199",
+  "category": "dessert"
+}
+]

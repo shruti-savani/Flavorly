@@ -1,0 +1,123 @@
+.about-bg {
+    background-image: url("../../public/AboutPage/bg1.avif");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    width: 100%;
+}
+.about-above {
+    background: rgb(0,0,0,0.6);
+    height: 400px;
+    width: 100%;
+    margin-top: 50px;
+    position: absolute;
+}
+.about-above h1 {
+    font-family: "Alex Brush"; 
+    color: #dcb075;
+}
+.about-above p {
+    color: white;
+    letter-spacing: 3px;
+}
+
+/* content */
+.about-content {
+    min-height: 350px;
+    max-height: auto;
+}
+.png1 {
+    left: 0;
+    opacity: 1;
+}
+.png2 {
+    right: 0;
+    opacity: 1;
+}
+
+@media screen and (max-width: 1310px) { 
+    .png1 {
+        opacity: 0.4;
+    }
+    .png2 {
+        opacity: 0.4;
+    }
+}
+
+.a-img {
+    height: 400px;
+    padding: 10px;
+}
+
+
+
+.chef-heading {
+    background-image: url("../../public/AboutPage/bg2.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.chef-heading h1 {
+    font-family: "Montserrat";
+}
+
+.chef-img {
+    height: 500px;
+}
+.chef{
+    border-bottom: 1px solid rgb(207, 207, 207);
+}
+.chef.image-first {
+    display: flex;
+    flex-direction: row;
+  }
+  
+.chef.details-first {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+
+@media (max-width: 767px) {
+
+    .about-content h1 {
+        font-size: 30px;
+    }
+    .about-snippet p{
+        padding: 5px;
+        font-size: small;
+    }
+    .png1, .png2 {
+        height: 150px;
+    }
+    .a-img {
+        height: 200px;
+        width: 250px;
+    }
+
+    .chef-heading {
+        height: 300px;
+    }
+    .chef.image-first, .chef.details-first {
+        display: flex;
+        flex-direction: column;
+    }
+    .chef-info h1 {
+        padding-top: 10px;
+    }
+    .chef-description {
+        padding-bottom: 10px;
+    }
+
+    .about-quality {
+        flex-direction: column;
+    }
+    .about-menu {
+        width: 100%;
+    }
+    .about-food {
+        width: 100%;
+    }
+    .about-space {
+        width: 100%;
+    }
+}

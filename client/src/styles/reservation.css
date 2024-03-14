@@ -1,0 +1,67 @@
+.reserve-heading {
+    background-image: url("../../public/AboutPage/bg3.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
+.reserve-head-above {
+    background: rgba(0,0,0,0.5);
+    height: 400px;
+    width: 100%;
+}
+.reserve-head-above h1 {
+    font-family: "Alex Brush"; 
+    color: #dcb075;
+}
+.reserve-head-above p {
+    letter-spacing: 3px;
+}
+
+@media (max-width: 767px) {
+    
+    .reserve-heading p {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 410px) {
+    .name {
+        width: 300px !important;
+    }
+    .phone {
+        width: 190px !important;
+    }
+    .people {
+        width: 100px !important;
+    }
+    .date {
+        width: 300px !important;
+    }
+    .time {
+        width: 300px !important;
+    }
+}
+
+@media (max-width: 300px) {
+    .reserve-head-above h1 {
+        font-size: 65px;
+    }
+    .reserve-head-above p {
+        font-size: 15px;
+    }
+    .name {
+        width: 250px !important;
+    }
+    .phone {
+        width: 165px !important;
+    }
+    .people {
+        width: 70px !important;
+    }
+    .date {
+        width: 250px !important;
+    }
+    .time {
+        width: 250px !important;
+    }
+}

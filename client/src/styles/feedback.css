@@ -1,0 +1,57 @@
+
+.feedback-bg {
+    background-image: url("../../public/FeedbackPage/bg.avif");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    width: 100%;
+}
+.feedback-above {
+    background: rgb(0,0,0,0.6);
+    height: 400px;
+    width: 100%;
+    margin-top: 50px;
+    position: absolute;
+}
+.feedback-above h1 {
+    font-family: "Alex Brush"; 
+    color: #dcb075;
+}
+.feedback-above p {
+    color: white;
+    letter-spacing: 3px;
+}
+
+.feedback-content { 
+    background-size: cover;
+    background-attachment: fixed;
+    height: 450px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.feedback-form {
+    padding-bottom: 90px;
+}
+
+@media (max-width: 415px) {
+    .input {
+        width: 300px !important;
+    }
+    .feedback-form {
+        align-items: center;
+    }
+}
+
+@media (max-width: 300px) {
+    .input {
+        width: 250px !important;
+    }
+    .feedback-form {
+        align-items: center;
+    }
+    .feedback-above h1 {
+        font-size: 5rem;
+    }
+}

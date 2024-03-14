@@ -1,0 +1,31 @@
+.user-details.min-height {
+    min-height: 597px;
+}
+.user-details-info {
+    font-size: large;
+}
+
+.each-order-history h1{
+    font-size: large;
+}
+
+.edit-fields input {
+    background-color: rgb(197, 214, 236);
+}
+
+.active {
+    color: rgb(109, 138, 175);
+}
+.each-order-history {
+    box-shadow: 1px 2px 9px rgb(109, 138, 175);
+    width: 31%;
+}
+
+.view-order-overlay {
+    background: rgba(0,0,0,0.6);
+}
+
+#print {
+    max-height: 90%;
+    overflow-y: auto;
+}

@@ -1,0 +1,78 @@
+.login-head {
+    background-image: url("../../../public/LoginPage/bg.avif");
+    background-size: cover;
+    background-position: center;
+    height: 597px;
+}
+.login-head-above {
+    background: rgba(0,0,0,0.7);
+    height: 480px;
+}
+.login-text {
+    font-family: "Alex Brush"; 
+    color: #dcb075;
+}
+
+.login-successful-bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+  
+.login-msg {
+    background-color: rgba(255, 255, 255, 1);
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+
+.signup-head {
+    background-image: url("../../../public/LoginPage/bg1.avif");
+    background-size: cover;
+    background-position: center;
+    height: 597px;
+}
+.signup-head-above {
+    background: rgba(0,0,0,0.7);
+    height: 480px;
+}
+.signup-text {
+    font-family: "Alex Brush"; 
+    color: #dcb075;
+}
+.signup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.signup-message {
+    background-color: rgba(255, 255, 255, 1);
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+}
